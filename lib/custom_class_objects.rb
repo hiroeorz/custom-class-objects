@@ -1,0 +1,5 @@
+require "rubygems"
+require "custom_class_object/ext_object"
+require "custom_class_object/ext_nil"
+require "custom_class_object/ext_string"
+require "custom_class_object/ext_time"

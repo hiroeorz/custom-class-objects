@@ -1,0 +1,7 @@
+= custom-class-objects
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 hiroeorz. See LICENSE for details.

@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{custom-class-objects}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["hiroeorz"]
@@ -18,6 +18,13 @@ Gem::Specification.new do |s|
      "LICENSE",
      "README.rdoc",
      "Rakefile",
+     "VERSION.yml",
+     "custom-class-objects.gemspec",
+     "lib/custom_class_objects.rb",
+     "lib/custom_class_objects/ext_nil.rb",
+     "lib/custom_class_objects/ext_object.rb",
+     "lib/custom_class_objects/ext_string.rb",
+     "lib/custom_class_objects/ext_time.rb",
      "spec/custom-class-objects_spec.rb",
      "spec/spec_helper.rb"
   ]

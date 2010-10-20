@@ -1,11 +1,12 @@
 require 'rubygems'
 require 'rake'
+require "yaml"
 
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "custom-class-objects"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{todo is not exist}
     gem.email = "hiroe.orz@gmail.com"
     gem.homepage = "http://github.com/hiroeorz/custom-class-objects"
     gem.authors = ["hiroeorz"]
